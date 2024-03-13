@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+<style type="blog.css">
+  
+h1{
+text-align: center;
+font-size: 35px;
+}
+
+.home{
+height: 200px;
+width: 1900px;
+text-align: center;
+display: inline-block;
+}
+
+.image{
+text-align: center;
+display: inline-block;
+}
+
+.paragraph{
+display: inline-block;
+text-align: center;
+font-size: 30px;
+}
+
+</style>
+</head>
+<style>
+.header{
+   text-color: #fff;
+   font-color: white;
+   font-size: 35px;
+   text-align: left;
+   spacing: 30px;
+   display: inline-block;
+   body{margin:0}
+   height: 120px;
+   width: 1500px;
+   background-color: pink;
+}
+
+.nav
+{
+   text-color: black;
+   font-size: 35px;
+   text-align: center;
+   spacing: 30px;
+   display: inline-block;
+   body{margin:0}
+   height: 45px;
+   width: 1500px;
+   background-color: pink;
+}
+
+.paragraph{
+font-size: 20px;
+text-align: center;
+}
+
+
+
+
+.social-icons {
+    position: top;
+ padding: 20px;
+}
+.social-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background: pink;
+    border-radius: 50%;
+    margin-right: 22px;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid white;
+    outline: 2px solid pink;
+    transition: .3s;
+}
+.social-icons a:hover {
+    transform: translateY(-10px);
+}
+.social-icons a i {
+    color: white;
+}
+
+</style>
+
+<body>
+
+<body background= 
+"C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 200644.png">
+</body>
+
+<div class="header">
+<h1>Shruti Ganbote</h1>
+</div>
+
+<div class="nav" text-align="right">
+<a class="active" href="aboutme.htm">Home</a>
+<a class="active" href="myabout.htm">About</a>
+<a class="active" href="certifications.htm">Certifications</a>
+<a class="active" href="skills.htm">Skills</a>
+<a class="active" href="contact.htm">Contact</a>
+</div>
+
+<div class="social-icons">
+                <a href="https://www.linkedin.com/in/shruti-ganbote-137269260"><i class="fa-brands fa-linkedin-in" href="aboutme.htm"></i></a>
+                <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+</div>
+
+<h1>About Me</h1>
+
+<div class="image">
+<p style="text-align: center">
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-08 160532.png" height="500px" width="500px">
+</p>
+</div>
+
+<div class="paragraph">
+<p>
+Hey,my name is Shruti Ganbote.Currently,I am a second year computer engineering student.I am pursuing my second year BE degree at Smt.Kashibai Navale College of Engineering,Pune.I am a tech-enthusiast.
+</p>
+</div>
+</body>
+
+<head>
+<style>
+
+.image1{
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+height: 100px;
+width: 150px;
+padding: 150px;
+spacing: 30px;
+}
+
+.image2{
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+height: 100px;
+width: 100px;
+padding: 150px;
+spacing: 30px;
+}
+
+.image3{
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+height: 100px;
+width: 100px;
+padding: 150px;
+spacing: 30px;
+}
+.image4{
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+height: 100px;
+width: 100px;
+padding: 150px;
+spacing: 30px;
+}
+
+.image5{
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+height: 100px;
+width: 100px;
+padding: 150px;
+spacing: 30px;
+}
+
+.myskills{
+font-size: 25px;
+}
+
+.footer{
+   font-size: 20px;
+   text-align: center;
+   spacing: 30px;
+   display: inline-block;
+   body{margin:0}
+   height: 100px;
+   width: 1500px;
+   background-color: pink;
+}
+
+</style>
+<body>
+
+<h1 font-size="50px">Certifications</h1>
+
+<div class="image1">Python Programming
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 220038.png" height="300px" width="300px">
+</div>
+
+<div class="image2">C++ Programming
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 222627.png" height="300px" width="300px">
+</div>
+
+<div class="image3">C Programming
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 222644.png" height="300px" width=300px">
+</div>
+
+<div class="image4">HTML5
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 222727.png" height="300px" width="300px">
+</div>
+
+<div class="image5">Soft Skills
+<img src="C:\Users\Shrut\Pictures\Screenshots\Screenshot 2024-03-07 222537.png" height="300px" width="300px">
+</div>
+
+<div class="Skills">
+<h1>Skills</h1>
+
+<div class="myskills">
+<ul>
+<li>C++ Programming</li>
+<li>Python Programming</li>
+<li>HTML5</li>
+<li>CSS</li>
+<li>C Programming</li>
+<li>JAVA Programming</li>
+</ul>
+</div>
+
+<div class="contact">
+<h1>Contact</h1>
+</div>
+
+<fieldset>
+<p>
+<form action="submission.htm">
+
+<div class="name">
+<p>
+<label><p>Name
+<input type="Name">
+</p>
+</label>
+</p>
+</div>
+
+<div class="email">
+<p>
+<label><p>Email
+<input type="Email">
+</p>
+</label>
+</p>
+</div>
+
+<div class="phone">
+<p>
+<label><p>Phone
+<input type="Phone">
+</p>
+</label>
+</p>
+</div>
+
+<div class="message">
+<p>
+<label><p>Message
+<textarea id="message" name="message" rows="10" cols="50"></textarea>
+</p>
+</label>
+</p>
+</div>
+
+<div class="button">
+<p>
+<label>
+<input type="submit" value="Submit">
+</p>
+</label>
+</p>
+</div>
+</form>
+
+</p>
+</fieldset>
+
+<div class="footer">
+<h1>@Copyright-My Portfolio.All rights reserved.</h1>
+</div>
+
+</body>
+</html>
